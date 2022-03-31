@@ -58,9 +58,9 @@ export const connect = () => {
           method: "eth_requestAccounts",
         });
         const networkId = await ethereum.request({
-          method: "test_version",
+          method: "net_version",
         });
-        if (networkId == 80001) {
+        if (networkId == CONFIG.NETWORK.ID) {
           const SmartContractObj = new Web3EthContract(
             abi,
             CONFIG.CONTRACT_ADDRESS
