@@ -1,12 +1,12 @@
 {
-  "CONTRACT_ADDRESS": "0xB491984b66ae01d7Ab0c82F54f507384b9ed3577",
-  "SCAN_LINK": "https://polygonscan.com/token/0xB491984b66ae01d7Ab0c82F54f507384b9ed3577",
+  "CONTRACT_ADDRESS": "0xbcceee8236c54ca2a11be87af5cfccb96b1175ef",
+  "SCAN_LINK": "https://polygonscan.com/token/0xbcceee8236c54ca2a11be87af5cfccb96b1175ef",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 80001
   },
-  "NFT_NAME": "CrYpto Boi NFT",
+  "NFT_NAME": "QWEER",
   "SYMBOL": "CYBL",
   "MAX_SUPPLY": 50,
   "WEI_COST": 10000000000000000,
