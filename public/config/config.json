@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0xB491984b66ae01d7Ab0c82F54f507384b9ed3577",
   "SCAN_LINK": "https://polygonscan.com/token/0xB491984b66ae01d7Ab0c82F54f507384b9ed3577",
   "NETWORK": {
-    "NAME": "Polygon Mumbai",
+    "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 80001
+    "ID": 137
   },
   "NFT_NAME": "CrYpto Boi NFT",
   "SYMBOL": "CYBL",
