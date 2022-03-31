@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0xbcceee8236c54ca2a11be87af5cfccb96b1175ef",
-  "SCAN_LINK": "https://polygonscan.com/token/0xbcceee8236c54ca2a11be87af5cfccb96b1175ef",
+  "CONTRACT_ADDRESS": "0x207ebb192bd0f77176d85f2f4a7d3c2d62580022",
+  "SCAN_LINK": "https://polygonscan.com/token/0x207ebb192bd0f77176d85f2f4a7d3c2d62580022",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 80001
   },
-  "NFT_NAME": "QWEER",
-  "SYMBOL": "CYBL",
-  "MAX_SUPPLY": 50,
+  "NFT_NAME": "TESTTEST",
+  "SYMBOL": "TST",
+  "MAX_SUPPLY": 5,
   "WEI_COST": 10000000000000000,
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
